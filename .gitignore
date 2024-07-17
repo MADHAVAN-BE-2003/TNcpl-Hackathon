@@ -1,0 +1,3 @@
+# Ignore Models directory and specific subdirectories
+Backend/Models/gemma-2b-it/
+Backend/Models/roberta-base-go_emotions/
